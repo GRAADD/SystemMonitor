@@ -1,6 +1,6 @@
 ﻿# SystemMonitor
 Small programm for zabbix or anything other.
-Run with params to get data:
+Run with params to get data:\r\n
 /d  - to get SMART data of drives
 /c  - to get CPU package temperature
 /g  - to get GPU core temperature
